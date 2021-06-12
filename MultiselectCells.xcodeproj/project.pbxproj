@@ -13,6 +13,7 @@
 		FAE95C28267414BA00FBA751 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAE95C26267414BA00FBA751 /* Main.storyboard */; };
 		FAE95C2A267414BB00FBA751 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAE95C29267414BB00FBA751 /* Assets.xcassets */; };
 		FAE95C2D267414BB00FBA751 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAE95C2B267414BB00FBA751 /* LaunchScreen.storyboard */; };
+		FAE95C362674154800FBA751 /* SelectionTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE95C352674154800FBA751 /* SelectionTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FAE95C29267414BB00FBA751 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAE95C2C267414BB00FBA751 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FAE95C2E267414BB00FBA751 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAE95C352674154800FBA751 /* SelectionTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				FAE95C20267414BA00FBA751 /* AppDelegate.swift */,
 				FAE95C22267414BA00FBA751 /* SceneDelegate.swift */,
 				FAE95C24267414BA00FBA751 /* ViewController.swift */,
+				FAE95C352674154800FBA751 /* SelectionTableViewController.swift */,
 				FAE95C26267414BA00FBA751 /* Main.storyboard */,
 				FAE95C29267414BB00FBA751 /* Assets.xcassets */,
 				FAE95C2B267414BB00FBA751 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				FAE95C25267414BA00FBA751 /* ViewController.swift in Sources */,
 				FAE95C21267414BA00FBA751 /* AppDelegate.swift in Sources */,
+				FAE95C362674154800FBA751 /* SelectionTableViewController.swift in Sources */,
 				FAE95C23267414BA00FBA751 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
